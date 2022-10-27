@@ -2,9 +2,9 @@ Instructions to run
 Install - Node.js v18.12.0 and npm v8.19.2
 
 Within Terminal - 
-To Setup - npm install
-To Test - npm test
-To Run - (while in project folder) node driver_assignments.js $STREETSFILE.EXT $DRIVERSFILE.EXT
+ - To Setup - `npm install`
+ - To Test - `npm test`
+ - To Run - (while in project folder) `node driver_assignments.js $STREETSFILE.EXT $DRIVERSFILE.EXT`
 
 
 Approach - 
