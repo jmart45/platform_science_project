@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*.js' --recursive --timeout 60000 --exit"
+  }
+}
